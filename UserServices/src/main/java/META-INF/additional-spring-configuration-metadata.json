@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "cloth-service.ribbon.listOfServers",
+  "type": "java.lang.String",
+  "description": "A description for 'cloth-service.ribbon.listOfServers'"
+}]}
